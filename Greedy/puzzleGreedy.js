@@ -1,9 +1,8 @@
 /**
  * 
  * Akaporn Katip
- * Rajamangala University of Technology Tawan-Ok : CharKarBongse Bhuvanarth Campus
+ * Rajamangala University of Technology Tawan-Ok : ChakraBongse Bhuvanarth Campus
  * ComputerScience Student.
- * Subject: A.I.
  * 
  */
 
